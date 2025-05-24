@@ -10,7 +10,9 @@ Currently, it contains the Curry implementations
 [Curry2Go](http://www.curry-lang.org/curry2go)
 as well as the implementation of
 [Masala](https://cpm.curry-lang.org/masala/),
-the web-based repository of Curry packages.
+the web-based repository of Curry packages,
+and various tools used in
+[Curry's website](https://www.curry-lang.org).
 
 Note that the implementation of popular Curry system
 [PAKCS](http://www.curry-lang.org/pakcs)
